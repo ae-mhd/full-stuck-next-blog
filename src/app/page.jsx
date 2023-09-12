@@ -3,7 +3,7 @@ import styles from "./homepage.module.css";
 import { CardList, CategoryList, Featured, Menu } from "@/components";
 
 export default function Home() {
-  return <div class="  ">
+  return <div >
     <Featured />
     <CategoryList />
     <div>

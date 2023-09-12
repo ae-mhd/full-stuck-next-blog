@@ -14,7 +14,7 @@ const Navbar = () => {
                 <Image src='/youtube.png' alt='youtube' width={24} height={24} />
             </div>
             <div className='flex-1 text-center text-4xl font-bold'>Safari Blog</div>
-            <div className='flex flex-1 gap-5 text-xl'>
+            <div className='flex flex-1 gap-5 text-xl items-center'>
                 <ThemToggle />
                 <Link href='/'>Home page</Link>
                 <Link href='/'>Contact</Link>
